@@ -1,0 +1,19 @@
+{
+  "name": "random-str-msg-hion",
+  "version": "1.0.0",
+  "description": "Randon String Mssages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andres felipe salazar <andres.gaviria.salazar@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-hion": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
